@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch, Deep Learning, NLP**
 
-- 📫 How to reach me **vamsi10010@gmail.com**
+- 📫 How to reach me **vamsi10010 [at] gmail [dot] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
