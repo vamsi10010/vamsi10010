@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi</h1>
 <h3 align="center">I am a passionate ML developer. I aim to solve everyday problems with the power of machine learning.</h3>
 
-- 🔭 I’m currently working on [YourCollege](https://github.com/vamsi10010/YourCollege.git) and [cgrad](https://github.com/vamsi10010/cgrad)
+- 🔭 I’m currently working on [hirehack](https://github.com/vamsi10010/hirehack.git) and [cgrad](https://github.com/vamsi10010/cgrad)
 
 - 🌱 I’m currently learning **PyTorch, Deep Learning, NLP**
 
